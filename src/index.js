@@ -1,5 +1,9 @@
 // Manasa A - 10/10/2026
-// This application prints "Hello, World!" and the numbers 0 to 9. It does not print squares.
+<<<<<<< HEAD
+
+=======
+// This application prints "Hello, World!" and the numbers 0 to 9, along with their squares.
+>>>>>>> feature-conflict
 
 console.log("Hello world!");
 
