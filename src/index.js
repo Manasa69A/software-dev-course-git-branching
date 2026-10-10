@@ -1,5 +1,5 @@
 // Manasa A - 10/10/2026
-// This application prints "Hello, World!" and the numbers 0 to 9.
+// This application prints "Hello, World!" and the numbers 0 to 9, along with their squares.
 
 console.log("Hello world!");
 
